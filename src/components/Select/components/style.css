@@ -1,0 +1,52 @@
+.select {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+select {
+  padding: 0.8em 0.5em;
+  border: 2px solid #34495e;
+  font-family: inherit;
+  color: #3d4b5a;
+  font-weight: bold;
+  width: 300px;
+}
+
+.select > span h3 {
+  color: #34495e;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #34495e;
+  padding: 10px;
+}
+
+.divider {
+  border-bottom: 2px solid #34495e;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid;
+  margin: 5px;
+  color: #34495e;
+}
+
+table,
+th,
+td {
+  border: 2px solid;
+  padding: 10px;
+}
+
+.container-table {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+}

@@ -1,0 +1,15 @@
+.menu ul {
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+}
